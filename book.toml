@@ -1,0 +1,22 @@
+[book]
+authors = ["NexIsDumb <87421482+NexIsDumb@users.noreply.github.com>"]
+language = "en"
+multilingual = false
+src = "src"
+title = "TheArmy Documentation"
+
+[output.html]
+git-repository-url = "https://github.com/The-Army-Hope/the-army-hope.github.io"
+
+[output.html.fold]
+enable = false
+level = 1
+
+[output.html.search]
+limit-results = 20
+use-boolean-and = true
+boost-title = 2
+boost-hierarchy = 2
+boost-paragraph = 1
+expand = true
+heading-split-level = 2
