@@ -1,3 +1,3 @@
 # Summary
 
-- [Home](./home.md)
+- [Infos](./home.md)
