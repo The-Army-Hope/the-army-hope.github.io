@@ -24,7 +24,7 @@ Using the school's 3D printer, the modeling team completed the printing of all e
 The communication and programming teams wrote the necessary code for data transmission between two Arduinos connected via Arduino Cloud. They also implemented the code required to input passwords, allowing the Arduinos to connect to Wi-Fi.
 
 ## First Tests
-Besides all the test ran by the project [here](https://github.com/The-Army-Hope/Arduino-Tests) the communication and programming teams, during a school celebration event, were able to run the first tests and show it off to their professors, and it catually started working (NOTE: The repository will stay private temp for now)!<br>
+Besides all the test ran by the project [here](https://github.com/The-Army-Hope/Arduino-Tests) the communication and programming teams, during a school celebration event, were able to run the first tests and show it off to their professors, and it actually started working (NOTE: The repository will stay private temp for now)!<br>
 The tests were simple: since at the time we didn't have long cables or breadboards we could move only one finger per time.. and the index finger worked! Across the room the two teams started moving the finger through a potentiometer.
 
 ## Next steps
