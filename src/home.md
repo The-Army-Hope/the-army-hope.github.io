@@ -1,6 +1,7 @@
 # WARNING
 This is still a WIP website...<br>
-(_TODO_: add the various team pages so they can write more, NOT on this page)
+All of the information below was added gradually and only represents a portion of the actual story;
+For this reason what you find here might be outdated and not completely up to what we're actually doing atm.   See the story section  - [Story](./story.md)
 
 # What is the "The Army" project?
 The Army is a school project born out of the _HoPE_ (_Hands on Physics Experience_) initiative, proposed by our school in collaboration with the _Massachusetts Institute of Technology_ (_MIT_). The goal of the project is to develop a mechanical arm that can be remotely controlled over long distances via an internet connection.
@@ -28,4 +29,6 @@ Besides all the test ran by the project [here](https://github.com/The-Army-Hope/
 The tests were simple: since at the time we didn't have long cables or breadboards we could move only one finger per time.. and the index finger worked! Across the room the two teams started moving the finger through a potentiometer.
 
 ## Next steps
-We'll try to separate one of the 3 fingers that were merged together, finalize the glove that should move the arm and finish this documentation website.
+We'll try to make the arm itself prettier, finalize the glove that should move the arm and finally finish this documentation website.
+
+
