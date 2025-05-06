@@ -1,6 +1,6 @@
 # ALL RESOURCES USED IN THE PROJECT 
 below is the complete list of parts, components and tools we used so that anyone can replicate what we did.
-This is NOT a tutorial, its only a LIST. For coding instructions, go to - [Documentation](./documentation.md)
+This is NOT a tutorial, its only a LIST. For coding instructions, go to [Documentation](./documentation.md)
 
 
 ## Electrical parts 

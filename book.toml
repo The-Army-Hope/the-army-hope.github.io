@@ -3,7 +3,7 @@ authors = ["NexIsDumb <87421482+NexIsDumb@users.noreply.github.com>"]
 language = "en"
 multilingual = false
 src = "src"
-title = "TheArmy Documentation"
+title = "TheArm-y's website"
 
 [output.html]
 git-repository-url = "https://github.com/The-Army-Hope/the-army-hope.github.io"
