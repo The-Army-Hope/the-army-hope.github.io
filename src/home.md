@@ -26,7 +26,8 @@ Using the school's 3D printer, the modeling team completed the printing of all e
 The communication and programming teams wrote the necessary code for data transmission between two Arduinos connected via Arduino Cloud. This led to a great success of connecting the two Arduinos via Wi-Fi.
 
 Here's the physical appearance of our proud final prototype v1 (unfortunately we couldn't finish in 8 months the palm, wrist and elbow, but they're not hard to do now that we've got the hang of it):
-![Arm](https://github.com/The-Army-Hope/RemoteArm/blob/main/source/v1/arm/circuit-up-all.jpg)
+
+![Arm](https://github.com/The-Army-Hope/RemoteArm/blob/main/source/v1/arm/circuit-up-all.jpg)<br>
 ![Glove](https://github.com/The-Army-Hope/RemoteArm/blob/main/source/v1/glove/circuit-up.jpg)
 
 ## First Tests
