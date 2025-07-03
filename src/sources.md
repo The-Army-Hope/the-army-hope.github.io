@@ -4,6 +4,7 @@ This is NOT a tutorial, it's only a LIST. If you'd like instructions and all of 
 
 ## Electrical parts
 Besides a decent 3d printer, hot glue, a general Nylon Glove, general strings and some other generic tools, you'll also need:
+
 | ID | Part name (you can also find these parts easily in other non italian stores)                                            | Part number | Quantity                                                             |
 | -- | ----------------------------------------------------------------------------------------------------------------------- | ----------- | -------------------------------------------------------------------- |
 | B1 | [Breadboards pack](https://www.amazon.it/Aihasd-tie-points-Solderless-Breadboard-Experiment/dp/B00VXC5J3M)              | B00VXC5J3M  | 1 (2 if not as pack)                                                 |

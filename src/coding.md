@@ -5,6 +5,7 @@ I'd suggest to also take a look at [all the tests I made](https://github.com/The
 
 ## Splitting the work
 As we said before, we divided the coding tasks into 2:
+
 | Physical coding team                                                                    | Connection / Cloud coding team            |
 | --------------------------------------------------------------------------------------- | ----------------------------------------- |
 | [Matte549](https://github.com/Matte549) and [Turkiztron](https://github.com/turkiz-jpg) | [NexIsDumb](https://github.com/NexIsDumb) |
@@ -56,4 +57,5 @@ void getDegreesFromString(int degs[MAX_RECEIVED_DEGREES], String infos, char del
 ```
 
 ## A little consideration
-This demonstrates that even something so easy to code can become something really cool, perfect ending and perfect prototype for a school project, HAH!  - Nex
+This demonstrates that even something so easy to code can become something really cool, perfect ending and perfect prototype for a school project, HAH!<br>
+\- Nex
