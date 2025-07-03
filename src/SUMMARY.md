@@ -2,5 +2,5 @@
 
 - [Infos](./home.md)
 - [Story](./story.md)
-- [Sources](./sources.md)
-- [Documentation](./documentation.md)
+- [Sources & Materials](./sources.md)
+- [Coding](./coding.md)
