@@ -27,9 +27,8 @@ The communication and programming teams wrote the necessary code for data transm
 
 Here's the physical appearance of our proud final prototype v1 (unfortunately we couldn't finish in 8 months the palm, wrist and elbow, but they're not hard to do now that we've got the hang of it):
 
-![Arm](https://github.com/The-Army-Hope/RemoteArm/blob/main/source/v1/arm/circuit-up-all.jpg)
-
-![Glove](https://github.com/The-Army-Hope/RemoteArm/blob/main/source/v1/glove/circuit-up.jpg)
+![Arm](assets/arm.jpg)<br>
+![Glove](assets/glove.jpg)
 
 ## First Tests
 Besides all the test ran by the project [here](https://github.com/The-Army-Hope/Arduino-Tests) the communication and programming teams, during a school celebration event, were able to run the first tests and show it off to our professors, and it actually started working!<br>
