@@ -27,3 +27,11 @@ We took the potentiometers, attached them to the glove and its board, and finall
 Once we had a fully functional arm and the first prototype of the glove with the potentiometers, we tried to move the first finger completely wirelessly. In front of our professors and friends, who were anxiously waiting to see this promised remote-controlled arm, we managed to move the ring finger in real-time without any issues or significant delays. We had achieved our goal!<br>
 From that moment on, we dedicated all our subsequent meetings to perfecting and adding extra features or improving the design of our project's wiki website.<br>
 We will do our best to improve our product as much as possible, starting with getting the entire hand to move smoothly! And maybe we’ll even think about making the design a bit more appealing, since right now it looks more like a Frankenstein creation made of hot glue, plastic, rope, and circuits. But that’s another story that we will fix later.
+
+## The UPC Space Program Collaboration
+Once we went to MIT in Boston for the 2025 edition of EDW and showcased our project, a Barcellona professor came to us and asked to get in contact with one of her old students: [Joel Garcia](https://github.com/Newtoniano20). Joel was working on an amazing project for his university: [The UPC Space Program](https://www.upcprogram.space) and with it, a space rover prototype. Starting from this, we spent an entire evening to think about a possible collaboration between thir Rover and our Glove/Arm, and so we had the idea: Moving their Rover with our Glove! On the same evening we stayed in a Discord voice channel with Joel to find ways to make the idea possible and after some hours we were able to make it work!<br> Based on how we moved the Glove's Index finger, the Rover would move Back and Forth, while it'd move Left and Right based on the Middle finger's movements.<br>
+And the next day we were able to produce a video out of it!
+
+{% embed youtube id="1HUfG7jVaCY" %}
+
+Such a wonderful experience!
